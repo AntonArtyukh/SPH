@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1969be_f7e17f9b",
+        "filename": "TEst.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1003673
+      },
+      "writtenOn": "2015-01-31T19:40:26Z",
+      "side": 1,
+      "message": "Abra cadabra",
+      "revId": "e692c4d915a5ee8bc716a8269b97cd323c36f8a6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
