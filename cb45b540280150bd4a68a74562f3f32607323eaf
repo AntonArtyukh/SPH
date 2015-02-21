@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1969be_5f35ccd8",
+        "filename": "Point.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "rename temp to point",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1969be_3f30d0e7",
+        "filename": "Point.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "remove result ad do it in return statement",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1969be_9f4e246e",
+        "filename": "Point.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "add indentations, brakes must be at the separate line",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1969be_7f51a80d",
+        "filename": "Point.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "add const and comments",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1969be_df589c34",
+        "filename": "Point.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "here too",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1969be_ff3c78c1",
+        "filename": "Search.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "use resize operation",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1969be_bf5b202d",
+        "filename": "Search.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "use code style",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1969be_1f42343e",
+        "filename": "Search.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1003672
+      },
+      "writtenOn": "2015-02-21T18:31:59Z",
+      "side": 1,
+      "message": "why twice?",
+      "revId": "cb45b540280150bd4a68a74562f3f32607323eaf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
