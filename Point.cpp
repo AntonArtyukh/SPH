@@ -24,31 +24,35 @@ Point& Point::operator=(const Point& other)
 
 Point& Point::operator*(const Point& other)
 {
-    Point temp;
-    temp.m_x = m_x * other.m_x;
-    temp.m_y = m_y * other.m_y;
-    return temp;
+    Point point;
+    point.m_x = m_x * other.m_x;
+    point.m_y = m_y * other.m_y;
+    return point;
 }
 
 Point& Point::operator+(const Point& other)
 {
-    Point temp;
-    temp.m_x = m_x + other.m_x;
-    temp.m_y = m_y + other.m_y;
-    return temp;
+    Point point;
+    point.m_x = m_x + other.m_x;
+    point.m_y = m_y + other.m_y;
+    return point;
 }
 
  double Point::Scalar_product(const Point& left, const Point& right)
 {
 
-    double result;
-    result = left.m_x * right.m_x + left.m_y * right.m_y;
-    return result;
+    return left.m_x * right.m_x + left.m_y * right.m_y;
 
 }
 
- double Point::getX() {return m_x;}
+ double Point::getX() const
+ {
+     return m_x;
+ }
 
- double Point::getY() {return m_y;}
+ double Point::getY() const
+ {
+     return m_y;
+ }
 
 } // SPH

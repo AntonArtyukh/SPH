@@ -42,9 +42,9 @@ public:
     double Scalar_product(const Point& left, const Point& right);
 
 
-    double getX();
+    double getX() const;
 
-    double getY();
+    double getY() const;
 
 private:
 

@@ -9,6 +9,7 @@
 #define TYPEDEF_H_
 
 #include"Point.h"
+#include"Search.h"
 #include <vector>
 
 namespace SPH
@@ -25,6 +26,7 @@ namespace SPH
     typedef std::vector<SizeTVector> VectorOfSizeTVectors;
     typedef std::vector<SizeTVector>::iterator VectorOfSizeTVectorsIterator;
     typedef std::vector<SizeTVector>::const_iterator VectorOfSizeTVectorsConstIterator;
+
 
 }//SHP
 #endif
