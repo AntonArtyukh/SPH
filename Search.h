@@ -24,7 +24,7 @@ private:
 
     struct Box
 {
-    SizeTVector points;
+    SizeTVector box_points;
 };
     double m_width;
 
